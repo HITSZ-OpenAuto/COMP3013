@@ -1,19 +1,19 @@
 course_name = "编译原理"
-repo_type = "normal"
 course_code = "COMP3013"
-
+repo_type = "normal"
 description = "COMP3013 - 编译原理课程资料。"
 
-[[lecturers]]
+[lecturers]
+
+[[lecturers.items]]
 name = "李旭涛"
 
-[[lecturers.reviews]]
+[[lecturers.items.reviews]]
 content = """
 很有激情的老师，上课很负责，对课程内容也很熟悉，少数可以抛开PPT直接板书的老师。很为学生考虑。会在课前准时发PPT，PPT做的很细致。上课最前几分钟会安排课前回顾。如果认真听讲的话，基本上不需要课下花时间就能弄清楚课程。
 老师很照顾学生，基本上不管上课、作业、实验还是考试，都会想办法让大家过的轻松一点。
 """
 author = { name = "", link = "", date = "" }
-
 
 [[sections]]
 title = "在线资源"
