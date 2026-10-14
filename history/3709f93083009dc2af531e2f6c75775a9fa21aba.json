@@ -1,0 +1,367 @@
+{
+  ".github/workflows/trigger-workflow.yml": {
+    "size": 518,
+    "time": 1763814694,
+    "hash": "938e5ada817e12b481823cbfbc44c0fa077ca69d"
+  },
+  "LICENSE": {
+    "size": 20844,
+    "time": 1754198080,
+    "hash": "54ae77f19d74abcf73cf3f477beaf4f32171615c"
+  },
+  "README.md": {
+    "size": 2529,
+    "time": 1791961504,
+    "hash": "3709f93083009dc2af531e2f6c75775a9fa21aba"
+  },
+  "assignments/.gitkeep": {
+    "size": 0,
+    "time": 1754198080,
+    "hash": "54ae77f19d74abcf73cf3f477beaf4f32171615c"
+  },
+  "assignments/2020/作业1.pdf": {
+    "size": 16061,
+    "time": 1755965033,
+    "hash": "86fbe4ba821bc14eb9d89d4695d4b4e03b66f8e5"
+  },
+  "assignments/2020/作业1答案.pdf": {
+    "size": 21096,
+    "time": 1755965033,
+    "hash": "86fbe4ba821bc14eb9d89d4695d4b4e03b66f8e5"
+  },
+  "assignments/2020/作业2.pdf": {
+    "size": 21519,
+    "time": 1755965033,
+    "hash": "86fbe4ba821bc14eb9d89d4695d4b4e03b66f8e5"
+  },
+  "assignments/2020/作业2答案.pdf": {
+    "size": 26944,
+    "time": 1755965033,
+    "hash": "86fbe4ba821bc14eb9d89d4695d4b4e03b66f8e5"
+  },
+  "assignments/2020/作业3.pdf": {
+    "size": 21548,
+    "time": 1755965033,
+    "hash": "86fbe4ba821bc14eb9d89d4695d4b4e03b66f8e5"
+  },
+  "assignments/2020/作业3答案.pdf": {
+    "size": 41516,
+    "time": 1755965033,
+    "hash": "86fbe4ba821bc14eb9d89d4695d4b4e03b66f8e5"
+  },
+  "assignments/2020/作业4.pdf": {
+    "size": 22543,
+    "time": 1755965033,
+    "hash": "86fbe4ba821bc14eb9d89d4695d4b4e03b66f8e5"
+  },
+  "assignments/2020/作业4答案.pdf": {
+    "size": 46131,
+    "time": 1755965033,
+    "hash": "86fbe4ba821bc14eb9d89d4695d4b4e03b66f8e5"
+  },
+  "exams/.gitkeep": {
+    "size": 0,
+    "time": 1754198080,
+    "hash": "54ae77f19d74abcf73cf3f477beaf4f32171615c"
+  },
+  "exams/2017级编译原理_威海_WuuTang.pdf": {
+    "size": 2532796,
+    "time": 1755965033,
+    "hash": "86fbe4ba821bc14eb9d89d4695d4b4e03b66f8e5"
+  },
+  "exams/2020-Compiler-Shenzhen.md": {
+    "size": 1609,
+    "time": 1755965061,
+    "hash": "e561d5e7a03eea47506b0485e4c8305e1a942fb0"
+  },
+  "exams/readme.md": {
+    "size": 272,
+    "time": 1755965061,
+    "hash": "e561d5e7a03eea47506b0485e4c8305e1a942fb0"
+  },
+  "exams/编译原理-23秋-期末-回忆版.pdf": {
+    "size": 661736,
+    "time": 1755965061,
+    "hash": "e561d5e7a03eea47506b0485e4c8305e1a942fb0"
+  },
+  "labs/.gitkeep": {
+    "size": 0,
+    "time": 1754198080,
+    "hash": "54ae77f19d74abcf73cf3f477beaf4f32171615c"
+  },
+  "labs/2020/实验一.rar": {
+    "size": 1295231,
+    "time": 1755965061,
+    "hash": "e561d5e7a03eea47506b0485e4c8305e1a942fb0"
+  },
+  "labs/2020/实验三.rar": {
+    "size": 328731,
+    "time": 1755965061,
+    "hash": "e561d5e7a03eea47506b0485e4c8305e1a942fb0"
+  },
+  "labs/2020/实验二.rar": {
+    "size": 5830044,
+    "time": 1755965061,
+    "hash": "e561d5e7a03eea47506b0485e4c8305e1a942fb0"
+  },
+  "labs/2020/实验四.rar": {
+    "size": 16582041,
+    "time": 1755965061,
+    "hash": "e561d5e7a03eea47506b0485e4c8305e1a942fb0"
+  },
+  "notes/.gitkeep": {
+    "size": 0,
+    "time": 1754198080,
+    "hash": "54ae77f19d74abcf73cf3f477beaf4f32171615c"
+  },
+  "notes/2022_hanswan/编译原理 1：编译器结构与词法分析/assets/Screenshot_20221114_211347-20221114211352-v7g2qhh.png": {
+    "size": 85689,
+    "time": 1755965061,
+    "hash": "e561d5e7a03eea47506b0485e4c8305e1a942fb0"
+  },
+  "notes/2022_hanswan/编译原理 1：编译器结构与词法分析/assets/Screenshot_20221118_142559-20221118142609-m911czy.png": {
+    "size": 90239,
+    "time": 1755965061,
+    "hash": "e561d5e7a03eea47506b0485e4c8305e1a942fb0"
+  },
+  "notes/2022_hanswan/编译原理 1：编译器结构与词法分析/assets/Screenshot_20221118_150358-20221118150403-0mcg1vo.png": {
+    "size": 21887,
+    "time": 1755965061,
+    "hash": "e561d5e7a03eea47506b0485e4c8305e1a942fb0"
+  },
+  "notes/2022_hanswan/编译原理 1：编译器结构与词法分析/编译原理 1：编译器结构与词法分析.md": {
+    "size": 5351,
+    "time": 1755965061,
+    "hash": "e561d5e7a03eea47506b0485e4c8305e1a942fb0"
+  },
+  "notes/2022_hanswan/编译原理 2：自顶向下的语法分析/assets/Screenshot_20220929_010803-20220929010836-d9l4ek9.png": {
+    "size": 30679,
+    "time": 1755965061,
+    "hash": "e561d5e7a03eea47506b0485e4c8305e1a942fb0"
+  },
+  "notes/2022_hanswan/编译原理 2：自顶向下的语法分析/assets/Screenshot_20220929_135902-20220929135931-maj8ujn.png": {
+    "size": 55299,
+    "time": 1755965096,
+    "hash": "a6e79d6192b7e0598847139bb322f10675007241"
+  },
+  "notes/2022_hanswan/编译原理 2：自顶向下的语法分析/assets/Screenshot_20220929_141915-20220929141944-xqlu58l.png": {
+    "size": 33157,
+    "time": 1755965096,
+    "hash": "a6e79d6192b7e0598847139bb322f10675007241"
+  },
+  "notes/2022_hanswan/编译原理 2：自顶向下的语法分析/assets/Screenshot_20221114_211347-20221114211352-v7g2qhh.png": {
+    "size": 85689,
+    "time": 1755965096,
+    "hash": "a6e79d6192b7e0598847139bb322f10675007241"
+  },
+  "notes/2022_hanswan/编译原理 2：自顶向下的语法分析/assets/Screenshot_20221118_142559-20221118142609-m911czy.png": {
+    "size": 90239,
+    "time": 1755965096,
+    "hash": "a6e79d6192b7e0598847139bb322f10675007241"
+  },
+  "notes/2022_hanswan/编译原理 2：自顶向下的语法分析/assets/Screenshot_20221118_150358-20221118150403-0mcg1vo.png": {
+    "size": 21887,
+    "time": 1755965096,
+    "hash": "a6e79d6192b7e0598847139bb322f10675007241"
+  },
+  "notes/2022_hanswan/编译原理 2：自顶向下的语法分析/编译原理 2：自顶向下的语法分析.md": {
+    "size": 24286,
+    "time": 1755965061,
+    "hash": "e561d5e7a03eea47506b0485e4c8305e1a942fb0"
+  },
+  "notes/2022_hanswan/编译原理 3：自底向上的语法分析/assets/Screenshot_20220929_010803-20220929010836-d9l4ek9.png": {
+    "size": 30679,
+    "time": 1755965096,
+    "hash": "a6e79d6192b7e0598847139bb322f10675007241"
+  },
+  "notes/2022_hanswan/编译原理 3：自底向上的语法分析/assets/Screenshot_20220929_135902-20220929135931-maj8ujn.png": {
+    "size": 55299,
+    "time": 1755965096,
+    "hash": "a6e79d6192b7e0598847139bb322f10675007241"
+  },
+  "notes/2022_hanswan/编译原理 3：自底向上的语法分析/assets/Screenshot_20220929_141915-20220929141944-xqlu58l.png": {
+    "size": 33157,
+    "time": 1755965096,
+    "hash": "a6e79d6192b7e0598847139bb322f10675007241"
+  },
+  "notes/2022_hanswan/编译原理 3：自底向上的语法分析/assets/Screenshot_20220930_095624-20220930095703-aouochl.png": {
+    "size": 23759,
+    "time": 1755965096,
+    "hash": "a6e79d6192b7e0598847139bb322f10675007241"
+  },
+  "notes/2022_hanswan/编译原理 3：自底向上的语法分析/assets/Screenshot_20220930_115243-20220930115313-hgc8ncb.png": {
+    "size": 14377,
+    "time": 1755965096,
+    "hash": "a6e79d6192b7e0598847139bb322f10675007241"
+  },
+  "notes/2022_hanswan/编译原理 3：自底向上的语法分析/assets/Screenshot_20220930_182839-20220930182956-sicw4l0.png": {
+    "size": 57462,
+    "time": 1755965096,
+    "hash": "a6e79d6192b7e0598847139bb322f10675007241"
+  },
+  "notes/2022_hanswan/编译原理 3：自底向上的语法分析/assets/Screenshot_20221002_171501-20221002171534-nn3clze.png": {
+    "size": 14756,
+    "time": 1755965096,
+    "hash": "a6e79d6192b7e0598847139bb322f10675007241"
+  },
+  "notes/2022_hanswan/编译原理 3：自底向上的语法分析/assets/Screenshot_20221003_192541-20221003192616-fe0m5uy.png": {
+    "size": 32336,
+    "time": 1755965096,
+    "hash": "a6e79d6192b7e0598847139bb322f10675007241"
+  },
+  "notes/2022_hanswan/编译原理 3：自底向上的语法分析/assets/Screenshot_20221003_200602-20221003200636-zulb2q9.png": {
+    "size": 20916,
+    "time": 1755965096,
+    "hash": "a6e79d6192b7e0598847139bb322f10675007241"
+  },
+  "notes/2022_hanswan/编译原理 3：自底向上的语法分析/assets/Screenshot_20221114_211347-20221114211352-v7g2qhh.png": {
+    "size": 85689,
+    "time": 1755965096,
+    "hash": "a6e79d6192b7e0598847139bb322f10675007241"
+  },
+  "notes/2022_hanswan/编译原理 3：自底向上的语法分析/assets/Screenshot_20221118_142559-20221118142609-m911czy.png": {
+    "size": 90239,
+    "time": 1755965096,
+    "hash": "a6e79d6192b7e0598847139bb322f10675007241"
+  },
+  "notes/2022_hanswan/编译原理 3：自底向上的语法分析/assets/Screenshot_20221118_150358-20221118150403-0mcg1vo.png": {
+    "size": 21887,
+    "time": 1755965096,
+    "hash": "a6e79d6192b7e0598847139bb322f10675007241"
+  },
+  "notes/2022_hanswan/编译原理 3：自底向上的语法分析/编译原理 3：自底向上的语法分析.md": {
+    "size": 47596,
+    "time": 1755965096,
+    "hash": "a6e79d6192b7e0598847139bb322f10675007241"
+  },
+  "notes/2022_hanswan/编译原理 4：句法制导翻译/assets/Screenshot_20220929_010803-20220929010836-d9l4ek9.png": {
+    "size": 30679,
+    "time": 1755965096,
+    "hash": "a6e79d6192b7e0598847139bb322f10675007241"
+  },
+  "notes/2022_hanswan/编译原理 4：句法制导翻译/assets/Screenshot_20220929_135902-20220929135931-maj8ujn.png": {
+    "size": 100004,
+    "time": 1755965383,
+    "hash": "a014dc16796c83747f69b3f6ff3d9e9458cb98b1"
+  },
+  "notes/2022_hanswan/编译原理 4：句法制导翻译/assets/Screenshot_20220929_141915-20220929141944-xqlu58l.png": {
+    "size": 59939,
+    "time": 1755965383,
+    "hash": "a014dc16796c83747f69b3f6ff3d9e9458cb98b1"
+  },
+  "notes/2022_hanswan/编译原理 4：句法制导翻译/assets/Screenshot_20221013_192035-20221013192050-p6ahl47.png": {
+    "size": 219477,
+    "time": 1755965383,
+    "hash": "a014dc16796c83747f69b3f6ff3d9e9458cb98b1"
+  },
+  "notes/2022_hanswan/编译原理 4：句法制导翻译/assets/Screenshot_20221024_103627-20221024103632-h6rrrwy.png": {
+    "size": 120919,
+    "time": 1755965383,
+    "hash": "a014dc16796c83747f69b3f6ff3d9e9458cb98b1"
+  },
+  "notes/2022_hanswan/编译原理 4：句法制导翻译/assets/Screenshot_20221024_105709-20221024105713-s3uy0bn.png": {
+    "size": 260848,
+    "time": 1755965383,
+    "hash": "a014dc16796c83747f69b3f6ff3d9e9458cb98b1"
+  },
+  "notes/2022_hanswan/编译原理 4：句法制导翻译/assets/Screenshot_20221114_211347-20221114211352-v7g2qhh.png": {
+    "size": 153433,
+    "time": 1755965383,
+    "hash": "a014dc16796c83747f69b3f6ff3d9e9458cb98b1"
+  },
+  "notes/2022_hanswan/编译原理 4：句法制导翻译/assets/Screenshot_20221116_150218-20221116150236-m6ho81o.png": {
+    "size": 195562,
+    "time": 1755965383,
+    "hash": "a014dc16796c83747f69b3f6ff3d9e9458cb98b1"
+  },
+  "notes/2022_hanswan/编译原理 4：句法制导翻译/assets/Screenshot_20221116_151022-20221116151033-d2pmtii.png": {
+    "size": 175817,
+    "time": 1755965383,
+    "hash": "a014dc16796c83747f69b3f6ff3d9e9458cb98b1"
+  },
+  "notes/2022_hanswan/编译原理 4：句法制导翻译/assets/Screenshot_20221116_152530-20221116152533-ukiuaxh.png": {
+    "size": 104939,
+    "time": 1755965383,
+    "hash": "a014dc16796c83747f69b3f6ff3d9e9458cb98b1"
+  },
+  "notes/2022_hanswan/编译原理 4：句法制导翻译/assets/Screenshot_20221117_123032-20221117123039-jvh25ww.png": {
+    "size": 83988,
+    "time": 1755965383,
+    "hash": "a014dc16796c83747f69b3f6ff3d9e9458cb98b1"
+  },
+  "notes/2022_hanswan/编译原理 4：句法制导翻译/assets/Screenshot_20221117_125541-20221117125545-mejz0p8.png": {
+    "size": 90655,
+    "time": 1755965383,
+    "hash": "a014dc16796c83747f69b3f6ff3d9e9458cb98b1"
+  },
+  "notes/2022_hanswan/编译原理 4：句法制导翻译/assets/Screenshot_20221117_125810-20221117125815-x0ts0bw.png": {
+    "size": 112672,
+    "time": 1755965383,
+    "hash": "a014dc16796c83747f69b3f6ff3d9e9458cb98b1"
+  },
+  "notes/2022_hanswan/编译原理 4：句法制导翻译/assets/Screenshot_20221118_142559-20221118142609-m911czy.png": {
+    "size": 159830,
+    "time": 1755965383,
+    "hash": "a014dc16796c83747f69b3f6ff3d9e9458cb98b1"
+  },
+  "notes/2022_hanswan/编译原理 4：句法制导翻译/assets/Screenshot_20221118_150358-20221118150403-0mcg1vo.png": {
+    "size": 38630,
+    "time": 1755965383,
+    "hash": "a014dc16796c83747f69b3f6ff3d9e9458cb98b1"
+  },
+  "notes/2022_hanswan/编译原理 4：句法制导翻译/编译原理 4：句法制导翻译.md": {
+    "size": 33325,
+    "time": 1755965096,
+    "hash": "a6e79d6192b7e0598847139bb322f10675007241"
+  },
+  "notes/2022_hanswan/编译原理 5：中间代码生成/assets/Screenshot_20221025_145449-20221025145455-3k3kpaj.png": {
+    "size": 19868,
+    "time": 1755965383,
+    "hash": "a014dc16796c83747f69b3f6ff3d9e9458cb98b1"
+  },
+  "notes/2022_hanswan/编译原理 5：中间代码生成/assets/Screenshot_20221107_220520-20221107220531-m394tb7.png": {
+    "size": 179313,
+    "time": 1755965383,
+    "hash": "a014dc16796c83747f69b3f6ff3d9e9458cb98b1"
+  },
+  "notes/2022_hanswan/编译原理 5：中间代码生成/assets/Screenshot_20221110_140344-20221110140347-zpmvwdq.png": {
+    "size": 80544,
+    "time": 1755965383,
+    "hash": "a014dc16796c83747f69b3f6ff3d9e9458cb98b1"
+  },
+  "notes/2022_hanswan/编译原理 5：中间代码生成/assets/Screenshot_20221110_143845-20221110143908-q63seiy.png": {
+    "size": 51544,
+    "time": 1755965383,
+    "hash": "a014dc16796c83747f69b3f6ff3d9e9458cb98b1"
+  },
+  "notes/2022_hanswan/编译原理 5：中间代码生成/assets/Screenshot_20221110_144402-20221110144406-jmzsu21.png": {
+    "size": 69519,
+    "time": 1755965383,
+    "hash": "a014dc16796c83747f69b3f6ff3d9e9458cb98b1"
+  },
+  "notes/2022_hanswan/编译原理 5：中间代码生成/编译原理 5：中间代码生成.md": {
+    "size": 8600,
+    "time": 1755965178,
+    "hash": "b1147772be6de60a6fadbb9ff4232bb1a72a09f8"
+  },
+  "notes/2022_hanswan/编译原理 6：编译器后端/assets/Screenshot_20221117_200343-20221117200347-xlubpek.png": {
+    "size": 40766,
+    "time": 1755965383,
+    "hash": "a014dc16796c83747f69b3f6ff3d9e9458cb98b1"
+  },
+  "notes/2022_hanswan/编译原理 6：编译器后端/编译原理 6：编译器后端.md": {
+    "size": 3823,
+    "time": 1755965178,
+    "hash": "b1147772be6de60a6fadbb9ff4232bb1a72a09f8"
+  },
+  "readme.toml": {
+    "size": 2460,
+    "time": 1773428107,
+    "hash": "190a8d99831b92e3e9529af3896bd1cf2a25a6a7"
+  },
+  "slides/.gitkeep": {
+    "size": 0,
+    "time": 1754198080,
+    "hash": "54ae77f19d74abcf73cf3f477beaf4f32171615c"
+  }
+}
